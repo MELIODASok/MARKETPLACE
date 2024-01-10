@@ -9,7 +9,14 @@ font-family: 'Calibri';
 
 }
 header h1{
-font-size:2em;
+font-size:2.5em;
+text-align: center;
 
+}
+.item-grid{
+display: flex;
+grid-template-columns: 1fr 1fr 1fr;
+margin: 30px 150px;
+background-color: gold;
 
 }
