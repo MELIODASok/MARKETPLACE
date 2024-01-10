@@ -33,3 +33,12 @@ height: 200px;
 image-rendering: auto;
 border-radius: 10px;
 }
+.item-buy{
+background-color: gray;
+color: aliceblue;
+border-radius: 5px;
+width: 85%;
+height: 25px;
+line-height: 25px;
+text-align: centers;
+}
